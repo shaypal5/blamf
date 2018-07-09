@@ -12,7 +12,7 @@ setuptools.setup(
     name='blamf',
     license="MIT",
     description='Just testing some python packaging stuff.',
-    version='v0.0.15',
+    version='v0.0.16',
     long_description=README,
     url='https://github.com/shaypal5/blamf',
     packages=setuptools.find_packages(),
