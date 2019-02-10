@@ -6,6 +6,6 @@ Just testing some python packaging principles.
 
 Blah
 
-`` pip install pipenv versioneer pytest coverage pytest-cov collective.checkdocs pygments twine``
+``pip install pipenv versioneer pytest coverage pytest-cov collective.checkdocs pygments twine``
 
 Blah
